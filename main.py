@@ -2,7 +2,7 @@ import re
 import openai
 import json
 
-openai.api_key = ''
+openai.api_key = 'API_KEY HERE'
 
 print('ChatBot Assistant: Welcome, I’ll be your ChatBot assistant today. I can assist you with finding Bible verses '
       'that can be helpful, or inspiring. What can I help you with? \n')
