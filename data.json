@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "text": "Hello, how can I help you today?",
+      "labels": ["greeting"]
+    },
+    {
+      "text": "Can you help me find a Bible verse about love?",
+      "labels": ["bible"]
+    },
+    {
+      "text": "What does the Bible say about forgiveness",
+      "labels": ["bible"]
+    },
+    {
+      "text": "Do you have any inspirational quotes?",
+      "labels": ["inspiration"]
+    }
+  ]
+}
